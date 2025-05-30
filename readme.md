@@ -10,6 +10,12 @@
 A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros.  
 Os produtos são vendidos globalmente.
 
+O projeto foi realizado com as seguintes tecnologias:
+```
+Excel
+ChatGPT
+Visual Studio Code
+```
 ---
 
 ## 🎯 Objetivos do Projeto
