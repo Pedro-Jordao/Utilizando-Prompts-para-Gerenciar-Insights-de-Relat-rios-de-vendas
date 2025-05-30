@@ -1,7 +1,7 @@
 # 📘 Projeto de Desafio - Bootcamp DIO
 
 > ⚠️ O seguinte README refere-se a um projeto para a obtenção de nota ou aprovação em um Bootcamp da DIO e está de acordo com a respectiva **"Descrição do Desafio"** que possuir.  
-> Em determinados casos, o projeto possui entregas **simplesmente visuais que sejam apresentadas neste README do GitHub**. Neste caso, a entrega do projeto será realizada por **meio deste arquivo**.
+> Em determinados casos, o projeto possui entregas **simplesmente visuais que sejam apresentadas neste README do GitHub**. Neste caso, a entrega do projeto será realizada por **meio deste arquivo** mas também possuirá outros arquivos de configuração no repositório, junto a samples de prompt que poderiam ser utilizados para os testes.
 
 ---
 
